@@ -6,6 +6,8 @@ Courses | Offered by | Type | Month | Pace |
 :-- | :--: | :--: | :--: | :--: |
 
 [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) | Google | IT | Approximately 8 months | 4 hours/week | 
+
+
 [Google Project Management: Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management) | Google | Project Management | Approximately 6 months | 10 hours/week | 
 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) | Google | Data Analytics | Approximately 6 months | 10 hours/week | 
 [Python for Everybody Specialization](https://www.coursera.org/specializations/python) | University of Michigan | Python | Approximately 8 months | 3 hours/week | 
