@@ -8,9 +8,9 @@ Courses | Offered by | Type | Month | Pace |
 :-- | :--: | :--: | :--: | :--: |
 [Accelerated Computer Science Fundamentals](https://www.coursera.org/specializations/cs-fundamentals) | University of Illinois at Urbana-Champaign| Computer Science | Approximately 3 months | 5 hours/week | 
 [Python for Everybody Specialization](https://www.coursera.org/specializations/python) | University of Michigan | Python | Approximately 8 months | 3 hours/week | 
-[Data Structures and Algorithms Specialization](https://www.coursera.org/learn/algorithms-part1) | Princeton | Data Structures + Algorithms| Approximately 8 months | 6 hours/week | 
-[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | UC San Diego | Data Structures + Algorithms| N/A | 54 hours |
-[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | UC San Diego | Data Structures + Algorithms| N/A | 54 hours |
+[Data Structures and Algorithms Specialization](https://www.coursera.org/learn/algorithms-part1) | UC San Diego  | Data Structures + Algorithms| Approximately 8 months | 6 hours/week | 
+[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Princeton | Data Structures + Algorithms| N/A | 54 hours |
+[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Princeton | Data Structures + Algorithms| N/A | 54 hours |
 [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | IBM | Software Engineer | Approximately 10 months | 3 hours/week | 
 [IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) | IBM | Software Developer | Approximately 13 months | 3 hours/week | 
 
