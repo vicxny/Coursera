@@ -2,6 +2,8 @@
 
 [Coursera](https://www.coursera.org/) 
 
+[Nerd's lesson](https://www.youtube.com/c/Nerdslesson/playlists) 
+
 ## Computer Science
 
 Courses | Offered by | Type | Month | Pace |
