@@ -1,6 +1,4 @@
-# Coursera
-
-[Coursera](https://www.coursera.org/) 
+# [Coursera](https://www.coursera.org/) 
 
 [Nerd's lesson](https://www.youtube.com/c/Nerdslesson/playlists) 
 
