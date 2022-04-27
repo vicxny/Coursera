@@ -38,7 +38,7 @@ Courses | Offered by | Type | Month | Pace |
 [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) | Google | Data Science | Approximately 5 months | 3 hours/week | 
 [Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics#courses) | Duke Univerity | Data Analytics | Approximately 5 months | 2 hours/week | 
 [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python#courses) | University of Michigan | Data Science | Approximately 5 months | 7 hours/week | 
-[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | Data Science | Approximately 5 months | 7 hours/week | 
+[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | Python | Approximately 5 months | 7 hours/week | 
 
 ## Product Management
 
