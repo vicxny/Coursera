@@ -16,7 +16,7 @@ Courses | Offered by | Type | Month | Pace |
 [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | IBM | Software Engineer | Approximately 10 months | 3 hours/week | 
 [IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) | IBM | Software Developer | Approximately 13 months | 3 hours/week | 
 
-## [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
+##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
 
 Courses | Offered by | Type | Month | Pace | Video |
 :-- | :--: | :--: | :--: | :--: | :--: |
