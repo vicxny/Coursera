@@ -4,7 +4,10 @@
 
 [My Lesson](https://www.youtube.com/c/MyLesson007/playlists) 
 
-[IBM Professional Certificate](https://www.coursera.org/programs/online-learning-from-your-dol-new-york-city-6jrvh/browse?currentTab=CATALOG&query=ibm)
+[IBM Professional Certificates](https://www.coursera.org/search?query=ibm&index=prod_all_launched_products_term_optimization&entityTypeDescription=Professional%20Certificates&allLanguages=English)
+
+[Google Professional Certificates](https://www.coursera.org/google-career-certificates)
+
 
 ## Computer Science
 
