@@ -8,7 +8,7 @@
 
 [Google Professional Certificates](https://www.coursera.org/google-career-certificates)
 
-[Meta Professional Certificates]([https://www.coursera.org/google-career-certificates](https://www.coursera.org/meta))
+[Meta Professional Certificates](https://www.coursera.org/meta)
 
 
 ## Computer Science
