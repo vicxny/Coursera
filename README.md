@@ -8,8 +8,24 @@
 
 [Google Professional Certificates](https://www.coursera.org/google-career-certificates)
 
+[Meta Professional Certificates]([https://www.coursera.org/google-career-certificates](https://www.coursera.org/meta))
+
 
 ## Computer Science
+
+### Certificate
+
+Courses | Offered by | Type | Month | Pace |
+:-- | :--: | :--: | :--: | :--: |
+[Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) | Meta | Front-End Developer | Approximately 10 months | 3 hours/week |
+[Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses) | Meta | Back-End Developer | Approximately 10 months | 3 hours/week | 
+[Meta iOS Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ios-developer) | Meta | iOS Developer | Approximately 10 months | 3 hours/week | 
+[Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer) | Meta | Android Developer | Approximately 10 months | 3 hours/week | 
+[Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer) | Meta | Database Engineer | Approximately 10 months | 3 hours/week |
+[IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | IBM | Software Engineer | Approximately 10 months | 3 hours/week | 
+[IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) | IBM | Software Developer | Approximately 13 months | 3 hours/week | 
+
+### Specialization
 
 Courses | Offered by | Type | Month | Pace |
 :-- | :--: | :--: | :--: | :--: |
@@ -19,8 +35,7 @@ Courses | Offered by | Type | Month | Pace |
 [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-MdLu3w5rvGtlxP2zE1xOPQ&siteID=PtFMiHYfEVk-MdLu3w5rvGtlxP2zE1xOPQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | Data Structures + Algorithms| N/A | 20 hours |
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Princeton | Data Structures + Algorithms| N/A | 54 hours |
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Princeton | Data Structures + Algorithms| N/A | 63 hours |
-[IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | IBM | Software Engineer | Approximately 10 months | 3 hours/week | 
-[IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) | IBM | Software Developer | Approximately 13 months | 3 hours/week | 
+
 
 ##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
 
@@ -34,6 +49,8 @@ Courses | Offered by | Type | Month | Pace | Video | Time |
 
 ## Data Analytics
 
+### Certificate
+
 Courses | Offered by | Type | Month | Pace |
 :-- | :--: | :--: | :--: | :--: |
 [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics) | Meta | Data Analytics | Approximately 7 months | 4 hours/week | 
@@ -41,6 +58,11 @@ Courses | Offered by | Type | Month | Pace |
 [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) | IBM | Data Analytics | Approximately 11 months | 3 hours/week | 
 [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | Data Science | Approximately 11 months | 4 hours/week | 
 [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) | IBM | Data Engineer | Approximately 15 months | 3 hours/week | 
+
+### Specialization
+
+Courses | Offered by | Type | Month | Pace |
+:-- | :--: | :--: | :--: | :--: |
 [Excel to MySQL: Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql) | Duke Univerity | Data Analytics | Approximately 7 months | 4 hours/week | 
 [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) | Google | Data Science | Approximately 5 months | 3 hours/week | 
 [Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics#courses) | Duke Univerity | Data Analytics | Approximately 5 months | 2 hours/week | 
