@@ -79,8 +79,8 @@ Courses | Offered by | Type | Month | Pace |
 
 ## Other Courses
 
-Courses | Offered by | Type | Month | Pace |
-:-- | :--: | :--: | :--: | :--: |
-[Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) | Google | IT | Approximately 8 months | 4 hours/week | 
-[Google Project Management: Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management) | Google | Project Management | Approximately 6 months | 10 hours/week | 
-[Digital Marketing Specialization](https://www.coursera.org/specializations/digital-marketing) | University of Illinois at Urbana-Champaign| Marketing | Approximately 8 months | 5 hours/week | 
+Courses | Offered by | Type | Month | Pace | Video |
+:-- | :--: | :--: | :--: | :--: | :--: |
+[Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) | Google | IT | Approximately 8 months | 4 hours/week | [Video]() |
+[Google Project Management: Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management) | Google | Project Management | Approximately 6 months | 10 hours/week | [Video]() |
+[Digital Marketing Specialization](https://www.coursera.org/specializations/digital-marketing) | University of Illinois at Urbana-Champaign| Marketing | Approximately 8 months | 5 hours/week | [Video]() |
