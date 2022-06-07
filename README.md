@@ -1,5 +1,7 @@
 # [Coursera](https://www.coursera.org/) 
 
+[Free](https://dol.ny.gov/online-learning-coursera)
+
 [Nerd's lesson](https://www.youtube.com/c/Nerdslesson/playlists) 
 
 [My Lesson](https://www.youtube.com/c/MyLesson007/playlists) 
