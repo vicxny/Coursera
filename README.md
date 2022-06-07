@@ -48,7 +48,7 @@ Courses | Offered by | Type | Month | Pace | Video | Time |
 [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) | University of Michigan | PostgreSQL | Approximately 4 months | 4 hours/week | [Video](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Oj3ndXmNS1FFOUyQP-gEa) |
 
 
-## Data Analytics
+## [Data Analytics](https://github.com/vicxny/Data-Analyst)
 
 ### Certificate
 
