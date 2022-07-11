@@ -35,7 +35,7 @@ Courses | Offered by | Type | Month | Pace |
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Princeton | [Data Structures + Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms/tree/main/Coursera) | N/A | 54 hours |
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Princeton | [Data Structures + Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms/tree/main/Coursera) | N/A | 63 hours |
 [Data Structures and Algorithms Specialization](https://www.coursera.org/learn/algorithms-part1) | UC San Diego  | [Data Structures + Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms/tree/main/Coursera) | Approximately 8 months | 6 hours/week |
-[Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native)| Meta| Computer Science || Approximately 8 months | 6 hours/week |
+[Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native)| Meta| Computer Science | Approximately 8 months | 6 hours/week |
 
 ##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
 
