@@ -23,7 +23,6 @@ Courses | Offered by | Type | Month | Pace |
 [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses) | Meta | Back-End Developer | Approximately 10 months | 3 hours/week |
 [Meta iOS Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ios-developer) | Meta | iOS Developer | Approximately 10 months | 3 hours/week |
 [Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer) | Meta | Android Developer | Approximately 10 months | 3 hours/week |
-[Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer) | Meta | Database Engineer | Approximately 6 months | 6 hours/week |
 [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | IBM | Software Engineer | Approximately 10 months | 3 hours/week |
 [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) | IBM | Software Developer | Approximately 13 months | 3 hours/week |
 
