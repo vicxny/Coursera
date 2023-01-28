@@ -45,6 +45,7 @@ Courses | Offered by | Type | Month | Pace | Video | Time |
 [Django for Everybody Specialization](https://www.coursera.org/specializations/django) | University of Michigan | Django | Approximately 5 months | 3 hours/week | [Video](https://www.youtube.com/watch?v=o0XbHvKxw7Y&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=3&t=2s) | 18:32:45 |
 [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications) | University of Michigan | Web Application | Approximately 6 months | 5 hours/week | [Video](https://www.youtube.com/watch?v=xr6uZDRTna0&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=4) | 14:29:41 |
 [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) | University of Michigan | PostgreSQL | Approximately 4 months | 4 hours/week | [Video](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Oj3ndXmNS1FFOUyQP-gEa) |
+[C Programming - A Historical Perspective](https://www.cc4e.com/) | University of Michigan | C | Approximately 2 months | 2 hours/week | [Video](https://www.youtube.com/watch?v=j-_s8f5K30I) |
 
 
 ## [Data Analytics](https://github.com/vicxny/Data-Analyst/tree/main/)
