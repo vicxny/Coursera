@@ -6,7 +6,7 @@
 
 [My Lesson](https://www.youtube.com/c/MyLesson007/playlists)
 
-[IBM Professional Certificates](https://www.coursera.org/search?query=ibm&index=prod_all_launched_products_term_optimization&entityTypeDescription=Professional%20Certificates&allLanguages=English)
+[IBM Professional Certificates](https://www.coursera.org/search?query=ibm&index=prod_all_products_term_optimization_language_filter&partners=IBM)
 
 [Google Professional Certificates](https://www.coursera.org/google-career-certificates)
 
